@@ -1,0 +1,12 @@
+[2022/10/31-22:37]Program Started
+[2022/10/31-22:37][Event] - Starting One Snapshot for the processes in memory. 
+[2022/10/31-22:37][Event] - Processes List was created.
+[2022/10/31-22:37][Event] - Starting One Snapshot for the processes in memory. 
+[2022/10/31-22:37][Event] - Processes List was created.
+[2022/10/31-22:37]Calculating working set of processes list..
+[2022/10/31-22:37][Event] - Start Sorting the process lists of all snaps (Bubble Sort).
+[2022/10/31-22:37]Generating Snaps Page.
+[2022/10/31-22:37]Generating Home Html Page.
+[2022/10/31-22:37]Generating HTML Database of all Snaps->Processes->Dlls info.
+[2022/10/31-22:37]Program Ended.
+
