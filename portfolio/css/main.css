@@ -66,19 +66,19 @@ body {
     background-size: cover;
     opacity: 1;
     position: absolute;
-    top: 37%;
+    top: 27%;
     left: 75%;
     overflow: hidden;
 }
 .v4_46 {
-  width: 58%;
+  width: 86%;
     color: rgba(0,0,0,1);
     position: absolute;
-    top: 190px;
-    left: 88px;
+    top: 56%;
+    left: 14%;
     font-family: Italiana;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 3vw;
     opacity: 1;
     text-align: center;
 }
@@ -94,7 +94,7 @@ body {
     box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
 }
 .v4_45 {
-  width: 30%;
+  width: 36%;
     height: 25%;
     background: url(../images/v4_45.png);
     background-repeat: no-repeat;
